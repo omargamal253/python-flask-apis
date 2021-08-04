@@ -1,2 +1,2 @@
 # python-flask-apis
-This is python script to created apis with flask framework , and other flask extensions.
+This is python script to create apis with flask framework , and other flask extensions.
